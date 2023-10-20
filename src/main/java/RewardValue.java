@@ -2,7 +2,7 @@ public class RewardValue {
     private double cashValue;
     private double milesValue;
     //
-
+//
     // Constructor that accepts a cash value
     public RewardValue(double cashValue) {
         this.cashValue = cashValue;
